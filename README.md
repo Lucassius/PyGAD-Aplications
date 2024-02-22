@@ -1,0 +1,1 @@
+# PyGAD-Aplications
